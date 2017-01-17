@@ -1,0 +1,6 @@
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\bin\Debug\Profiling.exe.config
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\obj\Debug\Profiling.csprojResolveAssemblyReference.cache
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\bin\Debug\Profiling.exe
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\bin\Debug\Profiling.pdb
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\obj\Debug\Profiling.exe
+c:\users\domis77\documents\visual studio 2015\Projects\Profiling\obj\Debug\Profiling.pdb

@@ -1,0 +1,6 @@
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\bin\Release\Profiling.exe.config
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\bin\Release\Profiling.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\bin\Release\Profiling.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\obj\Release\Profiling.exe
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\obj\Release\Profiling.pdb
+C:\Users\domis77\Documents\Visual Studio 2015\Projects\Profiling\obj\Release\Profiling.csprojResolveAssemblyReference.cache
